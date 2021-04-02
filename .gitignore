@@ -1,0 +1,9 @@
+XC_Sounds/
+XC_Sounds_Split/
+XC_Sounds_wav/
+kaggle_1_soln/weights/
+.idea/
+__pycache__/
+kaggle_1_soln/checked_df.csv
+kaggle_1_soln/checked_df_test.csv
+kaggle_1_soln/checked_df_train.csv
